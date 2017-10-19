@@ -2,4 +2,4 @@ lets start lazy-simply
 
 
 
-shadertoy version, improve it to use red/green texture or noise
+shadertoy version, could use red/green displacement map
